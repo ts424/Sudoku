@@ -12,3 +12,5 @@ This is a Sudoku game implemented in Java using Swing for the graphical user int
 ## Technologies Used
 **Java:** Programming language used for development.<br>
 **Swing:** Java library used for creating the graphical user interface.<br>
+
+![Sudoku 1](https://github.com/ts424/Sudoku/assets/89158382/845c64ab-e2c3-4d0c-9fc1-45c7fd412680) ![Sudoku 2](https://github.com/ts424/Sudoku/assets/89158382/72d22fa4-ad67-4ff0-a8ff-ece9bb1a730b) ![Sudoku 3](https://github.com/ts424/Sudoku/assets/89158382/d5e81dbb-ffc4-42fa-b622-dd0862f40f05)
