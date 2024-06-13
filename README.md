@@ -1,4 +1,4 @@
-# Sudoku Game
+![image](https://github.com/ts424/Sudoku/assets/89158382/233947b5-6853-4b6d-8ac0-0b4d336040a6)# Sudoku Game
 
 ## Overview
 This is a Sudoku game implemented in Java using Swing for the graphical user interface. The game allows users to generate a new puzzle, solve the puzzle automatically, and check the validity of their solution. The board is a standard 9x9 grid, and users can interact with the game through a set of buttons and text fields.
@@ -11,6 +11,6 @@ This is a Sudoku game implemented in Java using Swing for the graphical user int
 
 ## Technologies Used
 **Java:** Programming language used for development.<br>
-**Swing:** Java library used for creating the graphical user interface.<br>
+**Swing:** Java library used for creating the graphical user interface.<br> <br>
 
-![Sudoku 1](https://github.com/ts424/Sudoku/assets/89158382/845c64ab-e2c3-4d0c-9fc1-45c7fd412680) ![Sudoku 2](https://github.com/ts424/Sudoku/assets/89158382/72d22fa4-ad67-4ff0-a8ff-ece9bb1a730b) ![Sudoku 3](https://github.com/ts424/Sudoku/assets/89158382/d5e81dbb-ffc4-42fa-b622-dd0862f40f05)
+![Sudoku 1](https://github.com/ts424/Sudoku/assets/89158382/845c64ab-e2c3-4d0c-9fc1-45c7fd412680) <br> ![Sudoku 2](https://github.com/ts424/Sudoku/assets/89158382/72d22fa4-ad67-4ff0-a8ff-ece9bb1a730b) <br> ![Sudoku 3](https://github.com/ts424/Sudoku/assets/89158382/d5e81dbb-ffc4-42fa-b622-dd0862f40f05)
